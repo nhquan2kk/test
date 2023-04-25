@@ -1,0 +1,48 @@
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Form1.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.IN_RA_SỐ_NGUYÊN_TỐ.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Properties.Resources.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.PTBN2an.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Cac_phep_toan_tren_phan_so.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Calculator.resources
+C:\Users\Admin\source\repos\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Tính_CV_và_DT_tam_giác.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.SuggestedBindingRedirects.cache
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Cac_phep_toan_tren_phan_so.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Calculator.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Form1.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.IN_RA_SỐ_NGUYÊN_TỐ.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Properties.Resources.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.PTBN2an.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.Tính_CV_và_DT_tam_giác.resources
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+D:\Code nháp\BaiTH1\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\bin\Debug\BaiTH1.exe
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\bin\Debug\BaiTH1.pdb
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.csproj.AssemblyReference.cache
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.csproj.SuggestedBindingRedirects.cache
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.Cac_phep_toan_tren_phan_so.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.Calculator.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.Form1.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.IN_RA_SỐ_NGUYÊN_TỐ.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.Properties.Resources.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.PTBN2an.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.Tính_CV_và_DT_tam_giác.resources
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.csproj.GenerateResource.cache
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.exe
+D:\Code nháp\BaiTH1\TH1_nhquan_full\BaiTH1\obj\Debug\BaiTH1.pdb

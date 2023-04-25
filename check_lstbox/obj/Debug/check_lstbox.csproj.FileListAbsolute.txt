@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\check_lstbox\bin\Debug\check_lstbox.exe.config
+C:\Users\Admin\source\repos\check_lstbox\bin\Debug\check_lstbox.exe
+C:\Users\Admin\source\repos\check_lstbox\bin\Debug\check_lstbox.pdb
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.Form1.resources
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.Properties.Resources.resources
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.exe
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.pdb
+C:\Users\Admin\source\repos\check_lstbox\obj\Debug\check_lstbox.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\bin\Debug\check_lstbox.exe.config
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\bin\Debug\check_lstbox.exe
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\bin\Debug\check_lstbox.pdb
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.Form1.resources
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.Properties.Resources.resources
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.exe
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\check_lstbox\obj\Debug\check_lstbox.pdb

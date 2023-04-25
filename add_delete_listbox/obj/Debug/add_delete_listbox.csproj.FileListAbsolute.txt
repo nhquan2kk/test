@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\add_delete_listbox\bin\Debug\add_delete_listbox.exe.config
+C:\Users\Admin\source\repos\add_delete_listbox\bin\Debug\add_delete_listbox.exe
+C:\Users\Admin\source\repos\add_delete_listbox\bin\Debug\add_delete_listbox.pdb
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.Form1.resources
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.Properties.Resources.resources
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.exe
+C:\Users\Admin\source\repos\add_delete_listbox\obj\Debug\add_delete_listbox.pdb
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\bin\Debug\add_delete_listbox.exe.config
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\bin\Debug\add_delete_listbox.exe
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\bin\Debug\add_delete_listbox.pdb
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.Form1.resources
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.Properties.Resources.resources
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.exe
+C:\Users\Admin\Downloads\kỳ 2\công nghệ  nét\add_delete_listbox\obj\Debug\add_delete_listbox.pdb
